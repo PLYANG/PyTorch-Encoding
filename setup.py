@@ -65,7 +65,6 @@ requirements = [
     'numpy',
     'tqdm',
     'nose',
-    'torch>=0.4.0',
     'Pillow',
     'scipy',
     'requests',
